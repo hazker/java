@@ -1,4 +1,0 @@
-apply plugin: "application" 
-apply plugin: 'java'
-
-mainClassName="hello.Hello"
